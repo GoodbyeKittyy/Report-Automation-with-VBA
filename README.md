@@ -30,15 +30,6 @@ This VBA project is designed to automate various tasks associated with monthly s
 - **Key Operations**: 
   - Iterates through each worksheet to clear pivot tables and delete chart objects.
 
-## Installation
-
-To use these subroutines:
-1. Open your Excel workbook.
-2. Press `Alt + F11` to open the VBA editor.
-3. Insert a new module (Insert > Module).
-4. Copy and paste the provided VBA code into the module.
-5. Close the VBA editor and return to your Excel workbook.
-
 ## Usage
 
 Run the desired subroutine based on your needs:
@@ -63,12 +54,6 @@ You can customize these subroutines by modifying parameters and properties in th
 
 This project is compatible with Microsoft Excel. Ensure your version of Excel supports VBA.
 
-## Contact
 
-For queries or suggestions, contact me at rohitpaul09@gmail.com.
-
-<a href="https://youtu.be/HCpt-QlDXiI" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
 
 
